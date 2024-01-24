@@ -1,6 +1,6 @@
 # SFZ WorkAdventure Map
 
-![screenshot-fullmap](./img/screenshot-1.png)
+![screenshot-fullmap](./img/screenshot-fullmap.png)
 
 Map building: [https://docs.workadventu.re/map-building/tiled-editor/](https://docs.workadventu.re/map-building/tiled-editor/)
 
