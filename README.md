@@ -1,3 +1,3 @@
 # SFZ WorkAdventure Map
-[https://workadventu.re/map-building](https://workadventu.re/map-building).
+Map building: [https://docs.workadventu.re/map-building/tiled-editor/](https://docs.workadventu.re/map-building/tiled-editor/)
 Map available at [https://sfz-hamburg.github.io/SFZ-WorkAdventu.re/](https://sfz-hamburg.github.io/SFZ-WorkAdventu.re/)
